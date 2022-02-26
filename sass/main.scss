@@ -1,0 +1,25 @@
+//import utils
+@import "utils/placeholders";
+@import "utils/variables";
+
+
+//import base
+@import "base/typography";
+
+//import components
+@import "components/buttons";
+@import "components/burger";
+@import "components/carousel";
+
+//import layouts
+@import "layouts/body";
+@import "layouts/section";
+@import "layouts/header";
+@import "layouts/footer";
+@import "layouts/header";
+@import "layouts/nav";
+@import "layouts/ul";
+
+
+
+
